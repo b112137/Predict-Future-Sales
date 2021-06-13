@@ -5,9 +5,9 @@
 
 ## Execute
 * Data Preprocessing(Don't need to execute.) 
-	`python data_preprocessing.py`
+	* `python data_preprocessing.py`
 * Train Model
-	`python train_model.py`
+	* `python train_model.py`
 
 ## Report Link
 [https://drive.google.com/file/d/1G_LZPgUZfecxlXgqOqVIGZax5SLFMQEl/view](https://drive.google.com/file/d/1G_LZPgUZfecxlXgqOqVIGZax5SLFMQEl/view)
